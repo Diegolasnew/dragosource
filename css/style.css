@@ -8255,3 +8255,46 @@ body.md-skin {
 .number-viñeta{
   padding-top: 5px; 
 }
+.black{
+  background-color: #2a2929 !important;
+}
+.black .count-info:active{
+  background-color: #2a2929 !important;
+}
+slick a{
+  border: none;
+}
+.white-bg{
+  background-color: #ffffff !important;
+}
+.ibox-content{
+  border: none !important; 
+}
+.issue-tracker img{
+  width: 50px;
+}
+.read_manga{
+  background-color: #2a2929 !important;
+}
+.read_manga h2{
+  color: #86adc6;
+}
+.read_manga .social-feed-box{
+  background: #7e7c7c;
+  color: #fff;
+}
+.read_manga small{
+  color: #fff;
+}
+.read_manga a{
+  color: #d9edff;
+}
+.read_manga select{
+  margin-top: 10px;
+}
+.read_manga .wrapper{
+  padding-bottom: 50px;
+}
+.visor-manga{
+  margin-bottom: 10px;
+}
